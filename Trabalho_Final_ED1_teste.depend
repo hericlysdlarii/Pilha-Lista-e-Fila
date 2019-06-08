@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1512048301 source:/home/pavic/Trabalho_Final_ED1/main.c
+	"Biblioteca.h"
+
+1512048381 /home/pavic/Trabalho_Final_ED1/Biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1512048642 source:/home/pavic/Trabalho_Final_ED1/Operacoes.c
+	"Biblioteca.h"
+
+1512061339 source:/home/pavic/Documentos/Trabalho_Final_ED1_testes/main.c
+	"Biblioteca.h"
+
+1512063142 /home/pavic/Documentos/Trabalho_Final_ED1_testes/Biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1512061778 source:/home/pavic/Documentos/Trabalho_Final_ED1_testes/Operacoes.c
+	"Biblioteca.h"
+
+1512405761 source:/home/daniel/Documentos/ED 1/Trabalho_Final_ED1_testes/main.c
+	"Biblioteca.h"
+
+1512405612 /home/daniel/Documentos/ED 1/Trabalho_Final_ED1_testes/Biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512409458 source:/home/daniel/Documentos/ED 1/Trabalho_Final_ED1_testes/Operacoes.c
+	"Biblioteca.h"
+
+1512524273 source:/home/herycles/Downloads/Trabalho_Final_ED1_testes/main.c
+	"Biblioteca.h"
+
+1512524288 /home/herycles/Downloads/Trabalho_Final_ED1_testes/Biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512523938 source:/home/herycles/Downloads/Trabalho_Final_ED1_testes/Operacoes.c
+	"Biblioteca.h"
+
